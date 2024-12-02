@@ -28,7 +28,7 @@
 
 <h2 id="tech">💻 Technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,visualstudio,java,maven,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,visualstudio,java,maven)](https://skillicons.dev)
 
 <h2 id="language"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="20" height="20" /> Analyzed Language</h2>
 
