@@ -4,7 +4,10 @@
  <a href="#layout">Layout</a> • 
  <a href="#tech">Technologies</a> • 
  <a href="#language">Analyzed Language</a> • 
- <a href="#first-follow">First and Follow</a> • 
+ <a href="#first-follow">First and Follow</a>
+</p>
+
+<p align="center">
  <a href="#syntactic-table">Syntactic Analysis Table</a> • 
  <a href="#colab">Collaborators</a> •
  <a href="#license">License</a>
